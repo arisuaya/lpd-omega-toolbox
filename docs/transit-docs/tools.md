@@ -11,12 +11,12 @@ title: 其他软件
   
 **Windows**  
 
-<a-button type="primary" href="">下载</a-button>  
+<a-button type="primary" href="https://download.urauto.ltd/files/apollostudio/latest-rel/Apollo-1.8.7-Win.exe">下载</a-button>  
   
 ----
 **macOS**  
 
-<a-button type="primary" href="">下载</a-button>
+<a-button type="primary" href="https://download.urauto.ltd/files/apollostudio/latest-rel/Apollo-1.8.7-Mac.pkg">下载</a-button>
 
 
 ## Unipad  
