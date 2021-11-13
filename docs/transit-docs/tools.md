@@ -7,7 +7,7 @@ title: 其他软件
 
 
 ## Apollo Studio  
-当前版本：
+当前版本：1.8.7
   
 **Windows**  
 
