@@ -20,8 +20,10 @@ title: 其他软件
 
 
 ## Unipad  
-当前版本：
-
+当前版本：4.0.0b11  
+<a-button type="primary" href="https://download.urauto.ltd/files/unipad/UniPad_4.0.0.b11.apks">下载</a-button>  
+*Unipad在Google Play采用分包分发，故单独安装需要使用SAI安装器来安装  
+[SAI下载与使用](/sai)
 
 ## Unitor  
 当前版本：
