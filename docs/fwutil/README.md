@@ -7,5 +7,4 @@ title: Launchpad 固件助手
 
 ****
 [Netlify备用站点](https://lp-fwutil-cn.netlify.app/)  
-[Vercel备用站点](https://lpfw-zh-cn.vercel.app/)  
 [CloudFlare Pages备用站点](https://lp-firmware-utility-chinese.pages.dev)

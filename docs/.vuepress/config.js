@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Omega-ToolBox',
+  title: 'ω-ToolBox',
   description: 'This is a Launchpad content transit site',
   theme: 'antdocs',
   themeConfig: {
@@ -9,8 +9,9 @@ module.exports = {
     nextLinks: false,
     prevLinks: false,
     nav: [
-      { text: '中转站', link: '/transit-docs/' },
+      { text: '下载区', link: '/transit-docs/' },
       { text: 'Launchpad固件助手', link: '/fwutil/' },
+      { text: '请支持本站！', link: '/support' },
     ],
     sidebar: {
       '/transit-docs/': [
